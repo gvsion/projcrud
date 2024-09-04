@@ -1,0 +1,14 @@
+feijao
+10
+10
+normal
+carne
+15
+15
+perecivel
+30
+Banana
+12
+10
+perecivel
+10

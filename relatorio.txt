@@ -1,0 +1,25 @@
+Relatório de Clientes e Produtos
+================================
+
+Clientes:
+Nome: Pedro
+CPF: 123
+Endereco: rua, 123, joao, pb
+Data de Nascimento: 4/1/2024
+--------------------------------
+
+Produtos:
+Nome: feijao
+Preco: 10
+Quantidade: 10
+--------------------------------
+Nome: carne
+Preco: 15
+Quantidade: 15
+Data de Validade: 30
+--------------------------------
+Nome: Banana
+Preco: 12
+Quantidade: 10
+Data de Validade: 10
+--------------------------------

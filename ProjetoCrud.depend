@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1724689163 source:c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\main.cpp
+	<iostream>
+	"Gerenciador.h"
+
+1725292568 c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\include\gerenciador.h
+	<vector>
+	"Cliente.h"
+	"Produto.h"
+	"ProdutoPerecivel.h"
+
+1724692651 c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\include\cliente.h
+	<string>
+	"Endereco.h"
+	"Data.h"
+
+1724423154 c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\include\endereco.h
+	<string>
+
+1724688731 c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\include\data.h
+
+1725292568 c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\include\produto.h
+	<string>
+
+1725124227 source:c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\src\cliente.cpp
+	"Cliente.h"
+
+1724688731 source:c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\src\data.cpp
+	"Data.h"
+
+1724423154 source:c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\src\endereco.cpp
+	"Endereco.h"
+
+1725292510 source:c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\src\produto.cpp
+	"Produto.h"
+
+1725294628 source:c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\src\gerenciador.cpp
+	"Gerenciador.h"
+	<iostream>
+	<fstream>
+	<cstdlib>
+
+1724695431 c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\include\venda.h
+	"Cliente.h"
+	"Produto.h"
+
+1725120743 c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\include\produtoperecivel.h
+	"Produto.h"
+
+1725120743 source:c:\users\rosan\onedrive\햞ea de trabalho\trabc++\projetocrud\src\produtoperecivel.cpp
+	"ProdutoPerecivel.h"
+
